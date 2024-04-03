@@ -159,8 +159,7 @@ Execute the program using runserver command.
 </html>```
 
 ## OUTPUT
-![slot](https://github.com/pradxxsh/slot/assets/131758539/1ede9b6d-3eff-4350-ac6e-cf3b11a7360a)
-
+![image](https://github.com/pradxxsh/slot/assets/131758539/ac72e948-3bd7-4fbf-ae0c-00cd11275f67)
 
 
 ## RESULT
